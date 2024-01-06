@@ -87,6 +87,7 @@ body{
     border-bottom: 2px solid var(--off-white);
     color: var(--white);
     font-weight: 300;
+    border-radius: 7px;
 }
 
 .search-container input::placeholder{
